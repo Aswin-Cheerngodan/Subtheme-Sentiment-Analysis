@@ -8,7 +8,6 @@ __pycache__/
 .env
 *.tar.gz
 *.zip
-*.ipynb
 .git
 .idea
 .vscode
