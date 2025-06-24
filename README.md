@@ -50,7 +50,7 @@ python -m venv myenv
 myenv\Scripts\activate
 pip install -r requirements.txt
 ```
-### ✅ 2. run streamlit app
+### ✅ 3. run streamlit app
 ```bash
 streamlit run src/main.py
 ```
